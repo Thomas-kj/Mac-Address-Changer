@@ -1,4 +1,4 @@
-                                        <<<<<<Mac-Address-Changer>>>>>>
+Mac-Address-Changer
 
 This is a  simple python program to change the Mac Address of the system
 
